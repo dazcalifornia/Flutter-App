@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ml.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>7502FC85D90B87913A87D1D566746DEB571F30BE</string>
+				<key>dateExpires</key>
+				<string>7/12/2565 BE</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>7502FC85D90B87913A87D1D566746DEB571F30BE</string>
+						<key>dateExpires</key>
+						<string>7/12/2565 BE</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>JF9J3WNKG9</string>
+						<key>name</key>
+						<string>Supakit Wiwustrinon</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>7502FC85D90B87913A87D1D566746DEB571F30BE</string>
+						<key>dateExpires</key>
+						<string>7/12/2565 BE</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>JF9J3WNKG9</string>
+						<key>name</key>
+						<string>Supakit Wiwustrinon</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>7502FC85D90B87913A87D1D566746DEB571F30BE</string>
+						<key>dateExpires</key>
+						<string>7/12/2565 BE</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>url_launcher_ios.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>JF9J3WNKG9</string>
+						<key>name</key>
+						<string>Supakit Wiwustrinon</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>JF9J3WNKG9.com.cocoacasts.scribbles.ios</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>JF9J3WNKG9</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>JF9J3WNKG9.com.cocoacasts.scribbles.ios</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1c28890e-f745-4316-9f13-df5321368859</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.cocoacasts.scribbles.ios</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>JF9J3WNKG9</string>
+				<key>name</key>
+				<string>Supakit Wiwustrinon</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
